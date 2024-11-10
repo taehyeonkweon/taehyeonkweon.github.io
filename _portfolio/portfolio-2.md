@@ -1,6 +1,6 @@
 ---
 title: "Mobile vehicle for salt pond"
-excerpt: "<br/><img src='/images/saltpond_resize.jpg'>"
+excerpt: "<img src='/images/saltpond_resize.jpg'>"
 permalink: "/projects/saltpond"
 collection: portfolio
 ---

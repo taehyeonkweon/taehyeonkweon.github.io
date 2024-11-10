@@ -1,6 +1,6 @@
 ---
 title: "Robotic gripper for UR5"
-excerpt: "<br/><img src='/images/gripper2_resize.png'>"
+excerpt: "<img src='/images/gripper2_resize.png'>"
 permalink: "/projects/gripper"
 collection: portfolio
 ---

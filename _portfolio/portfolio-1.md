@@ -1,6 +1,6 @@
 ---
 title: "Mobile Robot with Active Suspension System"
-excerpt: "Biomimetic Robotics Lab, The Hong Kong Polytechnic University"
+excerpt: ""
 permalink: "/projects/fyp"
 collection: portfolio
 ---
