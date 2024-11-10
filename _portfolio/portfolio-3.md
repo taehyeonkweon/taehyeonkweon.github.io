@@ -1,11 +1,11 @@
 ---
 title: "Rugby Kicking Robot"
-excerpt: "**IC382 Multidisciplinary Manufacturing Project, The Hong Kong Polytechnic University** <br/><img src='/images/kick.jpg'>"
+excerpt: "<br/><img src='/images/kick.jpg'>"
 permalink: "/projects/rugbykickingrobot"
 collection: portfolio
 ---
 - Designed, prototyped, and demonstrated a rugby-kicking robot capable of navigating through obstacles. 
 - Successfully designed a kicking mechanism that allowed the robot to kick the ball over a hurdle. 
 
-Kicking Mechanism
+- Kicking Mechanism:
 <br/><img src='/images/kick2.jpg'>

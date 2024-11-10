@@ -1,6 +1,6 @@
 ---
 title: "Robotic gripper for UR5"
-excerpt: "**Robotics and Machine Intelligence Lab, The Hong Kong Polytechnic University** <br/><img src='/images/gripper2.png'>"
+excerpt: "<br/><img src='/images/gripper2.png'>"
 permalink: "/projects/gripper"
 collection: portfolio
 ---
