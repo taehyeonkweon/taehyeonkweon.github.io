@@ -1,6 +1,6 @@
 ---
 title: "Rugby Kicking Robot"
-excerpt: "<img src='/images/kick_resize.jpg'><br/><br/>kick the ball over a hurdle"
+excerpt: "<img src='/images/kick.jpg'>"
 permalink: "/projects/rugbykickingrobot"
 collection: portfolio
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Mobile vehicle for salt pond"
-excerpt: "<img src='/images/saltpond_resize.jpg'><br/><br/>autonomous nagivation on liquid and mud surfacess"
+excerpt: "<img src='/images/saltpond.jpg'>"
 permalink: "/projects/saltpond"
 collection: portfolio
 ---

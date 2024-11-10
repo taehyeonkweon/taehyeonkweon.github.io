@@ -1,6 +1,6 @@
 ---
 title: "Mobile Robot with Active Suspension System"
-excerpt: "stepper motors and an IMU"
+excerpt: ""
 permalink: "/projects/fyp"
 collection: portfolio
 ---

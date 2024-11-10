@@ -4,12 +4,11 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
 {% include base_path %}
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); grid-gap: 20px;">
-  {% for post in site.portfolio %}
-    <div style="margin: 0; background-color: #f8f9fa; padding: 5px 20px; border: 1px solid #ddd; border-radius: 8px;">
-      {% include archive-single.html %}
-    </div>
-  {% endfor %}
-</div>
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
