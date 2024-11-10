@@ -1,6 +1,6 @@
 ---
 title: "Rugby Kicking Robot"
-excerpt: "<br/><img src='/images/kick.jpg'>"
+excerpt: "<br/><img src='/images/kick_resize.jpg'>"
 permalink: "/projects/rugbykickingrobot"
 collection: portfolio
 ---
