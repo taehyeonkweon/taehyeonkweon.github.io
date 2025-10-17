@@ -6,5 +6,5 @@ img: assets/img/publication_preview/butterfly_kf.jpg
 redirect: https://github.com/taehyeonkweon/SiamMask-KalmanFilter-Tracking-VOT18
 importance: 1
 category: Course
-related_publications: true
+related_publications: false
 ---
