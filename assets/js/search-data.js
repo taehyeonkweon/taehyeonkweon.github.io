@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -454,6 +454,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-visual-object-tracking",
+          title: 'Visual Object Tracking',
+          description: "3D-printed car spoiler controlled by a stepper motor and Arduino.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/proj_car_spoiler/";
             },},{id: "projects-visual-object-tracking",
           title: 'Visual Object Tracking',
           description: "Visual object tracking using SiamMask and a custom Kalman Filter implementation on the VOT18 sequence.",
