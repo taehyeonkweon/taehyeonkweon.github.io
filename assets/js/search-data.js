@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Teaching Assistant experience at the University of Waterloo.",
+          description: "Teaching Assistant and Peer Tutor experience at the University of Waterloo and The Hong Kong Polytechnic University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
