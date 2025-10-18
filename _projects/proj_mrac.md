@@ -5,7 +5,7 @@ description: Model Reference Adaptive Control (MRAC) simulation for trajectory t
 img: assets/img/two_arm.png
 redirect: false
 importance: 1
-category: Coursework
+category: Course
 related_publications: false
 ---
 
