@@ -1,12 +1,35 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 6
+title: Teaching
+description: Teaching Assistant experience at the University of Waterloo.
+nav: true
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### **University of Waterloo — MTE 544 / ME 549 : Autonomous Mobile Robotics**
 
-Organize your courses by years, topics, or universities, however you like!
+**Instructor:** Prof. Soo Jeon  
+**Role:** Teaching Assistant (Winter 2025 & Fall 2025)
+
+## Labs
+
+<p align="center">
+  <img src="/assets/img/mte544_overview.png" alt="MTE544 Overview" width="700"/>
+</p>
+
+<div class="caption">
+  MTE544 Lab Overview
+</div>
+
+📘 [Course Repository (MTE 544 Student)](https://github.com/UW-MTE544/MTE544_student)
+
+These labs focused on **ROS2-based implementation** of:
+
+- PID control
+- Localization using **Particle Filters**
+- Path planning with **Dijkstra** and **A\*** algorithms
+
+All deployed on the **TurtleBot4** platform.
+
+**Responsibilities:** Conducting office hours, supporting lab sessions, providing technical assistance, and grading assignments and exams.
