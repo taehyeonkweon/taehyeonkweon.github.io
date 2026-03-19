@@ -9,8 +9,7 @@ nav_order: 4
 
 ### **University of Waterloo — MTE 544 / ME 549: Autonomous Mobile Robotics**
 
-**Instructor:** Prof. Soo Jeon  
-**Role:** Teaching Assistant (Winter 2025 & Fall 2025)
+**Role:** Teaching Assistant (Winter 2025 & Fall 2025 & Winter 2026)
 
 <p align="center">
   <img src="/assets/img/mte544_overview.jpg" alt="MTE544 Overview" width="700"/>
@@ -20,7 +19,7 @@ nav_order: 4
   MTE544 Lab Overview
 </div>
 
-📘 [Course Repository (MTE 544 Student)](https://github.com/UW-MTE544/MTE544_student)
+📘 [Course Repository](https://github.com/UW-MTE544/MTE544_student)
 
 These labs focused on **ROS2-based implementation** of:
 
