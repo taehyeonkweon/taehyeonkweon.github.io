@@ -65,8 +65,7 @@ The proposed framework was evaluated in both simulation and real-world experimen
 
 ## Citation
 
-📄 **Paper:** _Semantic-Aware Active Perception for Next-Best-View Grasp Planning_  
-https://link.springer.com/article/10.1007/s12541-026-01554-0
+📄 **Paper:** [_Semantic-Aware Active Perception for Next-Best-View Grasp Planning_](https://link.springer.com/article/10.1007/s12541-026-01554-0)
 
 If you find this work useful in your research, please cite:
 
