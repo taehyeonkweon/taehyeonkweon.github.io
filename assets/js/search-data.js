@@ -375,7 +375,12 @@ ninja.data = [{
             },},{id: "news-our-paper-semantic-aware-active-perception-for-next-best-view-grasp-planning-has-been-accepted-to-the-international-journal-of-precision-engineering-and-manufacturing-ijpem",
           title: 'Our paper, “Semantic-Aware Active Perception for Next-Best-View Grasp Planning,” has been accepted to...',
           description: "",
-          section: "News",},{id: "projects-arduino-car-spoiler",
+          section: "News",},{id: "projects-vlm-distilled-next-best-view-planning",
+          title: 'VLM-Distilled Next-Best-View Planning',
+          description: "Learning active perception policies from vision-language model preferences.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/prefnbv/";
+            },},{id: "projects-arduino-car-spoiler",
           title: 'Arduino Car Spoiler',
           description: "3D-printed car spoiler controlled by a stepper motor and Arduino.",
           section: "Projects",handler: () => {
