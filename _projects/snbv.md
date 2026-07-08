@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Semantic-Aware Active Perception for Robotic Grasping
-description: Active perception for grasping occluded objects using semantic TSDF and next-best-view planning.
+title: Semantic-Aware Active Perception
+description: Next-best-view planning for robotic grasping in cluttered environments.
 img: /assets/img/snbv_thumbnail.png
 importance: 1
 category: Research
 related_publications: false
 ---
+
 ## Overview
 
 Robotic grasping in cluttered environments is challenging because target objects are often heavily occluded. This project presents a semantic-aware active perception framework that enables a Franka Panda robot to autonomously explore the scene, localize a target object, and execute a successful grasp without prior knowledge of the object's location.
@@ -23,7 +24,6 @@ Robotic grasping in cluttered environments is challenging because target objects
   The robot actively explores the scene before executing the final grasp.
 </div>
 
-
 ## System Pipeline
 
 <div class="row justify-content-sm-center">
@@ -38,7 +38,6 @@ Robotic grasping in cluttered environments is challenging because target objects
 <div class="caption">
   Overall pipeline of the semantic-aware active perception framework.
 </div>
-
 
 The framework integrates semantic perception, volumetric mapping, active viewpoint planning, and grasp planning in a closed-loop pipeline to autonomously localize and grasp occluded target objects.
 
@@ -64,15 +63,14 @@ The proposed framework was evaluated in both simulation and real-world experimen
 - **Simulation:** 84% grasp success under heavy occlusion.
 - **Real robot:** 10/10 success (fully occluded), 9/10 success (partially visible).
 
-
 ## Citation
 
-📄 **Paper:** *Semantic-Aware Active Perception for Next-Best-View Grasp Planning*  
+📄 **Paper:** _Semantic-Aware Active Perception for Next-Best-View Grasp Planning_  
 https://link.springer.com/article/10.1007/s12541-026-01554-0
 
 If you find this work useful in your research, please cite:
 
-> Kweon, T. H., & Jeon, S. (2026). *Semantic-Aware Active Perception for Next-Best-View Grasp Planning*. International Journal of Precision Engineering and Manufacturing.
+> Kweon, T. H., & Jeon, S. (2026). _Semantic-Aware Active Perception for Next-Best-View Grasp Planning_. International Journal of Precision Engineering and Manufacturing.
 
 ```bibtex
 @article{kweon2026semantic,
