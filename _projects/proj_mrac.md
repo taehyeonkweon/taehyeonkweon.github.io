@@ -4,7 +4,7 @@ title: MRAC for a Two-Link Manipulator
 description: Model Reference Adaptive Control (MRAC) simulation for trajectory tracking and parameter estimation of a nonlinear two-link robotic arm in MATLAB/Simulink.
 img: assets/img/two_arm.png
 redirect: false
-importance: 1
+importance: 3
 category: Course
 related_publications: false
 ---
