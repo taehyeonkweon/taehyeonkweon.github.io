@@ -400,9 +400,9 @@ ninja.data = [{
           description: "PPO-based policy training for visual grasping using segmentation-informed rewards in Genesis simulator.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/proj_wam_rl/";
-            },},{id: "projects-semantic-aware-active-perception-for-robotic-grasping",
-          title: 'Semantic-Aware Active Perception for Robotic Grasping',
-          description: "Active perception for grasping occluded objects using semantic TSDF and next-best-view planning.",
+            },},{id: "projects-semantic-aware-active-perception",
+          title: 'Semantic-Aware Active Perception',
+          description: "Next-best-view planning for robotic grasping in cluttered environments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/snbv/";
             },},{
