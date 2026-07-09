@@ -410,6 +410,11 @@ ninja.data = [{
           description: "Next-best-view planning for robotic grasping in cluttered environments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/snbv/";
+            },},{id: "projects-vlm-based-robot-policy-verification",
+          title: 'VLM-Based Robot Policy Verification',
+          description: "Using vision-language models to verify and refine robotic manipulation tasks.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vla_eval/";
             },},{
         id: 'social-email',
         title: 'email',
